@@ -48,11 +48,11 @@ format:
 ## Procedures
 
 -   **rosuvastatin 10 mg**과 **ezetimibe 10 mg**의 혼합치료
--   **rosuvastatin 20 mg** 스테인 단독치료
+-   **rosuvastatin 20 mg** 스테틴 단독치료
 
 ## Procedures
 
--   2달, 6달, 1년, 2년, 3년 후에 방문 진료
+-   2달, 6달, 1년, 2년, 3년 후 검사
 
 ## Primary Endpoint
 
@@ -89,19 +89,14 @@ format:
 
 ## Sample Size
 
-::::: columns
-::: {.column width="45%"}
-비열등성 검정을 위해 그룹별로 1605명 필요
+
+- 비열등성 검정을 위해 그룹별로 1605명 필요
 <br>
 (유의수준 5% 단측 검정, 검정력 80%, 탈락율 15%)
-:::
-
-::: {.column width="45%"}
-우월성 검정을 위해 총합 220명 필요 
+<br> <br>
+- 우월성 검정을 위해 총합 220명 필요 
 <br>
 (유의수준 5% 양측 검정, 검정력 80%, 탈락율 15%)
-:::
-:::::
 
 # Results
 
@@ -152,13 +147,13 @@ format:
 ::: {.column width="45%"}
 혼합치료 
 <br> <br>
-(1년 후 95%, 2년 후 94%, 3년 후 93%)
+(1년 후 95%, 2년 후 94%, <br> 3년 후 93%)
 :::
 
 ::: {.column width="45%"}
 단독치료
 <br> <br>
-(1년 후 94%, 2년 후 91%, 3년 후 90%)
+(1년 후 94%, 2년 후 91%, <br> 3년 후 90%)
 :::
 :::::
 
@@ -168,21 +163,21 @@ format:
 ::: {.column width="45%"}
 혼합치료 
 <br> <br>
-(primary outcome 누적발생률 9.1%)
+(primary outcome <br> 누적발생률 9.1%)
 :::
 
 ::: {.column width="45%"}
 단독치료
 <br> <br>
-(primary outcome 누적발생률 9.9%)
+(primary outcome <br>누적발생률 9.9%)
 :::
 :::::
-
+<br>
 - absolute difference −0∙78%; 90% CI −2∙39 to 0∙83
 
 ## Primary Endpoint
 
-1[](image3.png)
+![](image3.png)
 
 ## Primary Endpoint
 
@@ -194,13 +189,13 @@ format:
 ::: {.column width="45%"}
 혼합치료 
 <br> <br>
-(매년 LDL 콜레스테롤 목표 도달율 73%,75%,72%)
+(매년 LDL 콜레스테롤 목표 도달률 73%,75%,72%)
 :::
 
 ::: {.column width="45%"}
 단독치료
 <br> <br>
-(매년 LDL 콜레스테롤 목표 도달율 55%,60%,58%)
+(매년 LDL 콜레스테롤 목표 도달률 55%,60%,58%)
 :::
 :::::
 
@@ -215,7 +210,7 @@ format:
 
 ## Secondary Endpoint(safety)
 
-- 시험 중단, 감량 비율율 **4.8%**:8.2% **(p<0.0001)**
+- 시험 중단, 복용량 감소소 비율 **4.8%**:8.2% **(p<0.0001)**
 
 ## Secondary Endpoint
 
@@ -230,7 +225,7 @@ format:
 - subgroup 분석 및 per protocol 분석도 같은 경향성을 보임
 
 
-##Endpoints
+## Endpoints
 
 ![](image7.png)
 
@@ -243,6 +238,6 @@ format:
 ## Limits
 
 - Openlabel(의사가 용법을 알고 치료를 진행)
-- Primary endpoint 누적발생률이 예상발샹률보다 낮아 설명에 어려움 존재(13~14%:9.1%~9.9%)
+- Primary endpoint 누적발생률이 예상발샹률보다 낮아 설명에 어려움 존재(13\~14%:9.1%\~9.9%)
 - 사건 발생 건수가 적여 주요 평가 변수의 개별 결과 비교에 어려움 존재
 
