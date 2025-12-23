@@ -3,7 +3,7 @@ title: "Treat-to-Target or High-Intensity Statin in Patients With Coronary Arter
 author: "Dohoon Baek"
 format: 
   revealjs:
-    slide-numver: true
+    slide-number: true
     transition: slide
     footer: LODESTAR
 ---
@@ -45,6 +45,10 @@ format:
 -   12개의 병원에서 진행, 3년 동안 추적
 
 -   statin 병용 불가 약품 복용, 부작용 고위험군, 기대 여명 3년 이하 제외
+
+## Design
+
+![](image1)
 
 ## Procedures
 
@@ -114,12 +118,7 @@ format:
 
 ## Participants
 
-::: panel-tabset
-
-<img src="image1.png">
-
-:::
-
+![](image2.png)
 
 ## Participants
 
@@ -137,6 +136,10 @@ format:
 
 -   ezetimible은 treat-to-target 군에서 더 많이 사용됨
 
+## Particpants
+
+![](image3.png)
+
 ## Analysis
 
 -   6주차의 경우 treat-to-target 군에서 LDL-C 수치가 높게 나옴 (69.6\[21.2\]mg/dL vs 66.8\[21.8\]mg/dL, P\<.001)
@@ -149,7 +152,9 @@ format:
 
 -   significantly low in 6 weeks and 3 months
 
--   사진 넣기
+## Analysis(treat-to-target)
+
+![](image4.png)
 
 ## Primary Endpoint
 
@@ -169,6 +174,10 @@ format:
 -   사후 검정 결과 몇몇 항목에서 유의미하게 낮은 수치를 보임
 
 -   당뇨병 발생 및 간, 근육, 콩팥 독성의 합 (6.1%vs8.2%; absolutediffer ence, −2.1% \[95%CI−3.6%to−0.5%\]; P = .009)
+
+## Endpoints
+
+![](image5.png)
 
 ## Discussion
 
