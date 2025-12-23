@@ -1,0 +1,172 @@
+---
+title: "moderate-intensity statin with ezetimibe combination therapy versus high-intensity statin monotherapy in patients with ASCVD"
+author: "Dohoon Baek"
+format: 
+  revealjs:
+    slide-numver: true
+    transition: slide
+    footer: RACING
+---
+
+## ASCVD(축상경화성 심혈관 질환)
+
+-   동맥 혈관에 콜레스테롤이 쌓여서 혈액순환에 문제가 발생하는 질병들의 총칭
+-   **LDL 콜레스테롤 농도**를 낮추기 위하여 **statin**을 복용
+-   **Ezetimible**는 장에서 콜레스테롤 흡수를 억제하는 효과가 있음
+
+## Lowering LDL Cholesterol Concentrations
+
+-   lower-intensity statin **with ezetimibe** combination therapy
+-   **higher-intensity** statin monotherapy
+
+## Design
+
+-   다기관, 랜덤, open-label, 비열등성 임상시험
+-   26개의 임상센터에서 진행
+
+## Participants
+
+-   'high intensity statin therapy' 치료 필요
+-   70 mg/dL 이하의 LDL 콜레스테롤 농도 조절 필요
+
+## Randomisation
+
+-   실험 외부의 프로그래머에 의해 제작된 'web-response permuted-block randomisation' 사용
+
+## Procedures
+
+-   **rosuvastatin 10 mg**과 **ezetimibe 10 mg**의 혼합치료
+-   **rosuvastatin 20 mg** 스테인 단독치료
+
+## Procedures
+
+-   2달, 6달, 1년, 2년, 3년 후에 방문 진료
+
+## Primary Endpoint
+
+-   3년 이내에 심혈관계 사망, 주요 심혈관 질환 발생 또는 비치명적 뇌졸중 발생여부
+
+## Secondary Endpoint
+
+-   임상적 효능 및 안전성
+
+## Secondary Endpoint
+
+::::: columns
+::: {.column width="40%"}
+효능 매년 마다 LDL 콜레스테롤 수치가 70mg/dL 이하로 낮아진 참가자들의 비율.smaller
+:::
+
+::: {.column width="60%"}
+안전성 약물 불내성으로 인한 중단 및 복용량 감소.smaller 새로운 당뇨병, 임상적 이상반응의 발생 여부.smaller
+:::
+:::::
+
+# Statistical Analysis
+
+## Objective
+
+-   기존 투여 방식에 대한 비열등성 검정
+-   LDL 콜레스테롤 수치를 **70mg/dL 이내**로 내리는 효승의 우수성 검정
+
+## Sample Size
+
+::::: columns
+::: {.column width="40%"}
+비열등성 그룹별로 1605명 필요 (유의수준 5% 단측 검정, 검정력 80%, 탈락율 15%)
+:::
+
+::: {.column width="60%"}
+우월성 총합 220명 필요 (유의수준 5% 양측 검정, 검정력 80%, 탈락율 15%)
+:::
+:::::
+
+# Results
+
+## Participants
+
+-   총 **3780명** 대상으로 진행 (혼합치료 1894명, 단독치료 1886명)
+-   평균 나이 64세, 남성 비율 75%
+-   과거 심근경색 경험 비율 40%, PCI 66%, 당뇨병 37%
+-   분류 전(38%의 고강도 statin, 36%의 중간강도 statin, 13%의 중간 강도 statin+ezetimible)
+
+## Data
+
+-   **범주형 자료** : numbers(percentages)
+-   **연속형 자료** : mean(SD), median(IQR)
+
+## Analysis(임상 사건 벌생률)
+
+-   Log-rank test
+-   Kaplan-Meier curve 비교.smaller
+-   Cox regression
+-   Hazard Ratio와 95% 신뢰구간 산출.smaller
+
+## Analysis(endpoints)
+
+-   단측 95% 신뢰 구간 상한이 2.0% 미만인지 판단
+-   임상 효능 평가 (사망, 주요 심혈관 사건, 비치명적 뇌졸증)
+
+## Analysis
+
+-   Intention-to-treat 분석
+-   Per-protocol 분석
+
+## Analysis
+
+-   실제 약물을 복용한 환자만 포함
+-   약물 불내성으로 중단 또는 감량한 경우는 포함
+-   평가정보가 없는 경우 중단 시점에서 검열 처리
+
+## Follow-up Duration
+
+-   Median 3년, 95.8%가 3년 완수
+
+## Follow-up Duration
+
+::::: columns
+::: {.column width="40%"}
+혼합치료 (1년 후 95%, 2년 후 94%, 3년 후 93%).smaller
+:::
+
+::: {.column width="60%"}
+(1년 후 94%, 2년 후 91%, 3년 후 90%).smaller
+:::
+:::::
+
+## Primary Endpoint
+
+::::: columns
+::: {.column width="40%"}
+혼합치료 (primary outcome 누적발생률 9.1%).smaller
+:::
+
+::: {.column width="60%"}
+(primary outcome 누적발생률 9.9%).smaller
+:::
+:::::
+
+## Secondary Endpoint
+
+::::: columns
+::: {.column width="40%"}
+혼합치료 (매년 LDL 콜레스테롤 목표 도달율 73%,75%,72%).smaller
+:::
+
+::: {.column width="60%"}
+(매년 LDL 콜레스테롤 목표 도달율 55%,60%,58%).smaller
+:::
+:::::
+
+## Secondary Endpoint
+
+-   3년 모두 **p-value \< 0.0001**
+
+## Discussion
+
+-   
+
+## Limits
+
+-   Openlabel(의사가 용법을 알고 치료를 진행)
+-   Primary endpoint 누적발생률이 예상발샹률보다 낮아 설명과 비교에 어려움 존재
