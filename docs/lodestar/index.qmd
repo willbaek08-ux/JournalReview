@@ -111,7 +111,15 @@ format:
 ## Participants
 
 -   총 **4400명** 대상으로 진행 (혼합치료 2200명, 단독치료 2200명)
--   baseline 이미지 넣기
+
+## Participants
+
+::: panel-tabset
+
+<img src="image1.png">
+
+:::
+
 
 ## Participants
 
