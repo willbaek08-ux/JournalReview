@@ -1,0 +1,21 @@
+\<!DOCTYPE html\>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<title>Journal Review</title>
+
+</head>
+
+<body>
+
+<h1>Journal Review</h1>
+
+<p><a href="./lodestar/">LODESTAR 슬라이드 보기</a></p>
+
+</body>
+
+</html>
