@@ -177,7 +177,7 @@ format:
 
 ## Limits
 
--   Openlabel(의사가 용법을 알고 치료를 진행)
+-   Open-label(의사가 용법을 알고 치료를 진행)
 -   Primary endpoint 누적발생률이 예상발생률보다 낮아 설명과 비교에 어려움 존재
 
 ## Limits

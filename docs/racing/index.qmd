@@ -181,7 +181,7 @@ format:
 
 ## Primary Endpoint
 
-![](image4)
+![](image4.png)
 
 ## Secondary Endpoint(efficacy)
 
@@ -237,6 +237,6 @@ format:
 
 ## Limits
 
-- Openlabel(의사가 용법을 알고 치료를 진행)
+- Open-label(의사가 용법을 알고 치료를 진행)
 - Primary endpoint 누적발생률이 예상발샹률보다 낮아 설명에 어려움 존재(13\~14%:9.1%\~9.9%)
 - 사건 발생 건수가 적여 주요 평가 변수의 개별 결과 비교에 어려움 존재
