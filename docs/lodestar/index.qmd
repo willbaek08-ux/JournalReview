@@ -46,7 +46,7 @@ format:
 
 ## Design
 
-![](image1)
+![](image1.png)
 
 ## Procedures
 
